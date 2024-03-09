@@ -12,5 +12,5 @@ __what is your name__
 - ghi
 - jkl
 * baba
-* black
-* sheep
+* > black
+* ~~sheep~~
